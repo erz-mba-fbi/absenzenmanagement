@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "1",
+    "LessonRef": { "Id": 1, "HRef": "/1" },
+    "StudentRef": { "Id": 1, "HRef": "/1" },
+    "EventRef": { "Id": 1, "HRef": "/1" },
+    "TypeRef": { "Id": null, "HRef": null },
+    "ConfirmationStateId": null,
+    "EventDesignation": "Math",
+    "HasStudyCourseConfirmationCode": false,
+    "LessonDateTimeFrom": "2020-09-07T08:00:00.000Z",
+    "LessonDateTimeTo": "2020-09-07T09:00:00.000Z",
+    "Comment": null,
+    "Date": null,
+    "Type": null,
+    "StudentFullName": "John Doe",
+    "StudyClassNumber": "9a",
+    "WasAbsentInPrecedingLesson": null
+  }
+]

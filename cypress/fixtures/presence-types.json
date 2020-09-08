@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 11,
+    "Active": true,
+    "Designation": "Absenz",
+    "IsAbsence": true,
+    "IsComment": false,
+    "IsDispensation": false,
+    "IsIncident": false,
+    "IsHalfDay": false,
+    "NeedsConfirmation": true,
+    "Sort": 0
+  },
+  {
+    "Id": 20,
+    "Active": true,
+    "Designation": "Verspätet",
+    "IsAbsence": false,
+    "IsComment": false,
+    "IsDispensation": false,
+    "IsIncident": true,
+    "IsHalfDay": false,
+    "NeedsConfirmation": true,
+    "Sort": 1
+  }
+]
